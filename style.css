@@ -1,0 +1,10 @@
+.heading{
+    box-shadow: 5px 5px 10px black;
+}
+#Heading2{
+    box-shadow: 5px 5px 10px black;
+    font-size: 18px;
+}
+body{
+    background-size: cover;
+}
